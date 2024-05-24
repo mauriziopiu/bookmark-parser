@@ -10,6 +10,11 @@ A simple parser to parse Firefox bookmarks (exported as JSON "Backup") into indi
 4. Run the script: `$ python3 main.py`
 5. You find your generated markdown files in the folder 'out'
 
+## Roadmap & Feature Ideas
+
+-   Customise frontmatter properties used
+-   Export from folder with bookmarks into Browser-Importable Structe
+
 ## Warning
 
 Take care when parsing data. Before you use the script and especially before you make any changes to it - make a backup/safety-copy of your bookmark data. I will not take responsibility in any data loss, caused by this script.
